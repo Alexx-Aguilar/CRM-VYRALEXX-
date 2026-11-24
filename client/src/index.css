@@ -1,0 +1,103 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    background-color: #10101B;
+    color: #F8FAFC;
+    font-family: 'Plus Jakarta Sans', 'Inter', system-ui, -apple-system, sans-serif;
+  }
+
+  /* Custom sleek scrollbar */
+  ::-webkit-scrollbar {
+    width: 6px;
+    height: 6px;
+  }
+
+  ::-webkit-scrollbar-track {
+    background: #10101B;
+  }
+
+  ::-webkit-scrollbar-thumb {
+    background: #252239;
+    border-radius: 9999px;
+  }
+
+  ::-webkit-scrollbar-thumb:hover {
+    background: #8B3DFF;
+  }
+}
+
+@layer components {
+  /* Dark Premium SaaS Surfaces */
+  .glass-card {
+    background-color: #1B1929;
+    border: 1px solid rgba(255, 255, 255, 0.06);
+    box-shadow: 0 8px 30px -4px rgba(0, 0, 0, 0.65), 0 0 1px 1px rgba(255, 255, 255, 0.04);
+    transition: all 0.25s cubic-bezier(0.16, 1, 0.3, 1);
+  }
+
+  .glass-card:hover {
+    border-color: rgba(168, 85, 247, 0.35);
+    box-shadow: 0 16px 36px -4px rgba(0, 0, 0, 0.75), 0 0 25px -4px rgba(139, 61, 255, 0.22);
+    transform: translateY(-2px);
+  }
+
+  .glass-card-static {
+    background-color: #1B1929;
+    border: 1px solid rgba(255, 255, 255, 0.06);
+    box-shadow: 0 8px 30px -4px rgba(0, 0, 0, 0.65), 0 0 1px 1px rgba(255, 255, 255, 0.04);
+  }
+
+  .glass-surface {
+    background-color: #252239;
+    border: 1px solid rgba(255, 255, 255, 0.07);
+  }
+
+  .glass-input {
+    background-color: #252239;
+    border: 1px solid rgba(255, 255, 255, 0.08);
+    color: #F8FAFC;
+    transition: all 0.2s ease;
+  }
+
+  .glass-input:focus {
+    border-color: #A855F7;
+    box-shadow: 0 0 0 2px rgba(168, 85, 247, 0.25);
+    outline: none;
+  }
+
+  /* Vibrant SaaS Gradients */
+  .gradient-primary-btn {
+    background: linear-gradient(135deg, #8B3DFF 0%, #A855F7 50%, #EC4899 100%);
+    box-shadow: 0 4px 20px -2px rgba(139, 61, 255, 0.35);
+    transition: all 0.25s ease;
+  }
+
+  .gradient-primary-btn:hover {
+    box-shadow: 0 6px 25px 0 rgba(236, 72, 153, 0.45);
+    opacity: 0.96;
+    transform: translateY(-1px);
+  }
+
+  .gradient-brand-text {
+    background: linear-gradient(135deg, #FFFFFF 0%, #A855F7 45%, #EC4899 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }
+
+  .gradient-cyan-purple-text {
+    background: linear-gradient(135deg, #22D3EE 0%, #A855F7 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }
+
+  .gradient-fuchsia-purple {
+    background: linear-gradient(135deg, #EC4899 0%, #8B3DFF 100%);
+  }
+
+  .gradient-purple-cyan {
+    background: linear-gradient(135deg, #8B3DFF 0%, #22D3EE 100%);
+  }
+}

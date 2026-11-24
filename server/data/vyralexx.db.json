@@ -1,0 +1,1567 @@
+{
+  "agencies": [
+    {
+      "id": "ag-1",
+      "logo": "https://images.unsplash.com/photo-1572021335469-31706a17aaef?w=150&auto=format&fit=crop&q=80",
+      "name": "Vyral Next Media Group",
+      "email": "contacto@vyralnext.com",
+      "notes": "Agencia fundadora de la red VYRALEXX. Especializada en Gaming y Lifestyle.",
+      "phone": "+52 55 9182 3400",
+      "status": "Activa",
+      "country": "México",
+      "website": "https://vyralnext.media",
+      "createdAt": "2026-01-10T08:00:00Z",
+      "description": "Agencia matriz de talentos digitales, producción de contenido hiper-escalable y gestión de marcas Tier 1.",
+      "managerName": "Alejandro Morales",
+      "managedCampaignsCount": 34,
+      "representedCreatorsCount": 18
+    },
+    {
+      "id": "ag-2",
+      "logo": "https://images.unsplash.com/photo-1551836022-d5d88e9218df?w=150&auto=format&fit=crop&q=80",
+      "name": "HyperNova Talent Agency",
+      "email": "info@hypernovatalent.es",
+      "notes": "Cobertura en Madrid, Barcelona y Miami. Fuerte conexión con marcas de lifestyle.",
+      "phone": "+34 91 445 8820",
+      "status": "Activa",
+      "country": "España",
+      "website": "https://hypernovatalent.es",
+      "createdAt": "2026-02-15T10:30:00Z",
+      "description": "Representación exclusiva de creadores de moda de lujo, belleza, tecnología de consumo y streamers de alto impacto.",
+      "managerName": "Elena De La Torre",
+      "managedCampaignsCount": 26,
+      "representedCreatorsCount": 14
+    },
+    {
+      "id": "ag-3",
+      "logo": "https://images.unsplash.com/photo-1560179707-f14e90ef3623?w=150&auto=format&fit=crop&q=80",
+      "name": "Apex Influence Latam",
+      "email": "ops@apexinfluence.co",
+      "notes": "Especialistas en activación de micro y macro influencers con alto engagement.",
+      "phone": "+57 1 744 9012",
+      "status": "Activa",
+      "country": "Colombia",
+      "website": "https://apexinfluence.co",
+      "createdAt": "2026-03-01T12:00:00Z",
+      "description": "Líder en campañas de fitness, bienestar, deportes electrónicos y tecnología móvil en Colombia, Argentina y Chile.",
+      "managerName": "Mateo Roldán",
+      "managedCampaignsCount": 19,
+      "representedCreatorsCount": 12
+    }
+  ],
+  "creators": [
+    {
+      "id": "cr-1",
+      "bio": "Creadora de contenido en tecnología, hardware futurista, setups minimalistas y estilo de vida ciberpunk. Creadora top 5 de YouTube Tech en España.",
+      "city": "Barcelona",
+      "name": "Valeria Castro Ruiz",
+      "tags": [
+        "Tech",
+        "Hardware",
+        "Gaming",
+        "Setup",
+        "Cyberpunk"
+      ],
+      "email": "valeria@cyberglow.io",
+      "notes": "Excelente dicción, entregas puntuales y métricas de retención sobresalientes.",
+      "phone": "+34 622 890 123",
+      "rates": {
+        "tiktokVideo": 4200,
+        "instagramReel": 3800,
+        "instagramStory": 1200,
+        "eventAttendance": 6000,
+        "youtubeDedicated": 9500,
+        "youtubeIntegration": 5200
+      },
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=300&auto=format&fit=crop&q=80",
+      "status": "Activo",
+      "country": "España",
+      "agencyId": "ag-2",
+      "audience": {
+        "ageGroups": [
+          {
+            "range": "18-24",
+            "percentage": 48
+          },
+          {
+            "range": "25-34",
+            "percentage": 38
+          },
+          {
+            "range": "35+",
+            "percentage": 14
+          }
+        ],
+        "genderSplit": {
+          "male": 58,
+          "other": 3,
+          "female": 39
+        },
+        "topCountries": [
+          {
+            "country": "España",
+            "percentage": 42
+          },
+          {
+            "country": "México",
+            "percentage": 28
+          },
+          {
+            "country": "Argentina",
+            "percentage": 15
+          },
+          {
+            "country": "Estados Unidos",
+            "percentage": 10
+          }
+        ]
+      },
+      "avgReach": 850000,
+      "category": "Gaming & Tech",
+      "createdAt": "2026-01-15T09:00:00Z",
+      "artisticName": "Valeria CyberGlow",
+      "availability": "Disponible",
+      "socialProfiles": [
+        {
+          "url": "https://youtube.com",
+          "handle": "@valeriacyberglow",
+          "avgViews": 420000,
+          "platform": "youtube",
+          "followers": 1250000,
+          "engagementRate": 6.8
+        },
+        {
+          "url": "https://instagram.com",
+          "handle": "@valeria.glow",
+          "avgViews": 185000,
+          "platform": "instagram",
+          "followers": 640000,
+          "engagementRate": 5.4
+        },
+        {
+          "url": "https://tiktok.com",
+          "handle": "@cyberglow_val",
+          "avgViews": 350000,
+          "platform": "tiktok",
+          "followers": 980000,
+          "engagementRate": 8.9
+        },
+        {
+          "url": "https://twitch.tv",
+          "handle": "cyberglow_live",
+          "avgViews": 85000,
+          "platform": "twitch",
+          "followers": 290000,
+          "engagementRate": 9.2
+        }
+      ],
+      "totalFollowers": 3160000,
+      "avgEngagementRate": 7.5
+    },
+    {
+      "id": "cr-2",
+      "bio": "Storyteller visual, fotógrafo urbano y entusiasta de la moda streetwear y viajes cinematográficos. Embajador de marcas globales.",
+      "city": "Ciudad de México",
+      "name": "Sebastián Morales",
+      "tags": [
+        "Streetwear",
+        "Viajes",
+        "Fotografía",
+        "Lujo",
+        "Cine"
+      ],
+      "email": "seba@sebavibes.com",
+      "notes": "Fotografía de nivel profesional editorial. Acepta campañas con contrato de exclusividad en indumentaria.",
+      "phone": "+52 55 4321 9876",
+      "rates": {
+        "tiktokVideo": 5000,
+        "instagramReel": 4500,
+        "instagramStory": 1500,
+        "eventAttendance": 7500,
+        "youtubeDedicated": 8000,
+        "youtubeIntegration": 4500
+      },
+      "avatar": "https://images.unsplash.com/photo-1539571696357-5a69c17a67c6?w=300&auto=format&fit=crop&q=80",
+      "status": "Activo",
+      "country": "México",
+      "agencyId": "ag-1",
+      "audience": {
+        "ageGroups": [
+          {
+            "range": "18-24",
+            "percentage": 42
+          },
+          {
+            "range": "25-34",
+            "percentage": 46
+          },
+          {
+            "range": "35+",
+            "percentage": 12
+          }
+        ],
+        "genderSplit": {
+          "male": 46,
+          "other": 2,
+          "female": 52
+        },
+        "topCountries": [
+          {
+            "country": "México",
+            "percentage": 55
+          },
+          {
+            "country": "Colombia",
+            "percentage": 18
+          },
+          {
+            "country": "Estados Unidos",
+            "percentage": 14
+          },
+          {
+            "country": "Chile",
+            "percentage": 8
+          }
+        ]
+      },
+      "avgReach": 980000,
+      "category": "Moda & Lifestyle",
+      "createdAt": "2026-01-20T11:00:00Z",
+      "artisticName": "SebaVibes",
+      "availability": "En proyectos",
+      "socialProfiles": [
+        {
+          "url": "https://instagram.com",
+          "handle": "@sebavibes",
+          "avgViews": 390000,
+          "platform": "instagram",
+          "followers": 1120000,
+          "engagementRate": 6.2
+        },
+        {
+          "url": "https://tiktok.com",
+          "handle": "@sebavibes_mx",
+          "avgViews": 620000,
+          "platform": "tiktok",
+          "followers": 1850000,
+          "engagementRate": 7.8
+        },
+        {
+          "url": "https://youtube.com",
+          "handle": "@SebaVibesVisuals",
+          "avgViews": 210000,
+          "platform": "youtube",
+          "followers": 480000,
+          "engagementRate": 5.1
+        }
+      ],
+      "totalFollowers": 3450000,
+      "avgEngagementRate": 6.4
+    },
+    {
+      "id": "cr-3",
+      "bio": "Atleta híbrida, entrenadora de alto rendimiento, especialista en nutrición deportiva y motivación de hábitos saludables.",
+      "city": "Medellín",
+      "name": "Camila Montoya",
+      "tags": [
+        "Fitness",
+        "Nutrición",
+        "Suplementos",
+        "Salud",
+        "Crossfit"
+      ],
+      "email": "cami@camifit.co",
+      "notes": "Comunidad altamente comprometida con tasas de conversión del 4.2% en links de afiliados de nutrición.",
+      "phone": "+57 312 876 5432",
+      "rates": {
+        "tiktokVideo": 3800,
+        "instagramReel": 3200,
+        "instagramStory": 950,
+        "eventAttendance": 5000,
+        "youtubeDedicated": 6500,
+        "youtubeIntegration": 3500
+      },
+      "avatar": "https://images.unsplash.com/photo-1517841905240-472988babdf9?w=300&auto=format&fit=crop&q=80",
+      "status": "Activo",
+      "country": "Colombia",
+      "agencyId": "ag-3",
+      "audience": {
+        "ageGroups": [
+          {
+            "range": "18-24",
+            "percentage": 35
+          },
+          {
+            "range": "25-34",
+            "percentage": 52
+          },
+          {
+            "range": "35+",
+            "percentage": 13
+          }
+        ],
+        "genderSplit": {
+          "male": 35,
+          "other": 2,
+          "female": 63
+        },
+        "topCountries": [
+          {
+            "country": "Colombia",
+            "percentage": 38
+          },
+          {
+            "country": "México",
+            "percentage": 24
+          },
+          {
+            "country": "España",
+            "percentage": 18
+          },
+          {
+            "country": "Perú",
+            "percentage": 12
+          }
+        ]
+      },
+      "avgReach": 740000,
+      "category": "Fitness & Nutrición",
+      "createdAt": "2026-02-01T14:30:00Z",
+      "artisticName": "CamiFit Iron",
+      "availability": "Disponible",
+      "socialProfiles": [
+        {
+          "url": "https://instagram.com",
+          "handle": "@camifit_iron",
+          "avgViews": 310000,
+          "platform": "instagram",
+          "followers": 890000,
+          "engagementRate": 7.9
+        },
+        {
+          "url": "https://tiktok.com",
+          "handle": "@camifitiron",
+          "avgViews": 580000,
+          "platform": "tiktok",
+          "followers": 1450000,
+          "engagementRate": 9.4
+        },
+        {
+          "url": "https://youtube.com",
+          "handle": "@CamiFitWorkout",
+          "avgViews": 145000,
+          "platform": "youtube",
+          "followers": 320000,
+          "engagementRate": 6.8
+        }
+      ],
+      "totalFollowers": 2660000,
+      "avgEngagementRate": 8.1
+    },
+    {
+      "id": "cr-4",
+      "bio": "Streamer de esports, caster oficial y analista de videojuegos competitivos. Creador de sketches de humor gamer.",
+      "city": "Buenos Aires",
+      "name": "Diego Arismendi",
+      "tags": [
+        "Esports",
+        "Gaming",
+        "Twitch",
+        "Hardware",
+        "Humor"
+      ],
+      "email": "krono@kronopixel.gg",
+      "notes": "Ideal para patrocinios de periféricos gamer, bebidas energéticas y monitores.",
+      "phone": "+54 11 5678 1234",
+      "rates": {
+        "tiktokVideo": 3500,
+        "instagramReel": 2800,
+        "instagramStory": 800,
+        "eventAttendance": 5500,
+        "youtubeDedicated": 7200,
+        "youtubeIntegration": 3800
+      },
+      "avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=300&auto=format&fit=crop&q=80",
+      "status": "Activo",
+      "country": "Argentina",
+      "agencyId": "ag-1",
+      "audience": {
+        "ageGroups": [
+          {
+            "range": "18-24",
+            "percentage": 60
+          },
+          {
+            "range": "25-34",
+            "percentage": 32
+          },
+          {
+            "range": "35+",
+            "percentage": 8
+          }
+        ],
+        "genderSplit": {
+          "male": 78,
+          "other": 2,
+          "female": 20
+        },
+        "topCountries": [
+          {
+            "country": "Argentina",
+            "percentage": 45
+          },
+          {
+            "country": "Chile",
+            "percentage": 22
+          },
+          {
+            "country": "Uruguay",
+            "percentage": 14
+          },
+          {
+            "country": "España",
+            "percentage": 12
+          }
+        ]
+      },
+      "avgReach": 1100000,
+      "category": "Gaming & Tech",
+      "createdAt": "2026-02-10T16:00:00Z",
+      "artisticName": "KronoPixel",
+      "availability": "Disponible",
+      "socialProfiles": [
+        {
+          "url": "https://twitch.tv",
+          "handle": "kronopixel",
+          "avgViews": 220000,
+          "platform": "twitch",
+          "followers": 780000,
+          "engagementRate": 11.2
+        },
+        {
+          "url": "https://tiktok.com",
+          "handle": "@kronopixel",
+          "avgViews": 710000,
+          "platform": "tiktok",
+          "followers": 1600000,
+          "engagementRate": 9.8
+        },
+        {
+          "url": "https://youtube.com",
+          "handle": "@KronoPixelClips",
+          "avgViews": 410000,
+          "platform": "youtube",
+          "followers": 910000,
+          "engagementRate": 7.3
+        },
+        {
+          "url": "https://twitter.com",
+          "handle": "@KronoPixel",
+          "avgViews": 90000,
+          "platform": "twitter",
+          "followers": 340000,
+          "engagementRate": 4.8
+        }
+      ],
+      "totalFollowers": 3630000,
+      "avgEngagementRate": 8.8
+    },
+    {
+      "id": "cr-5",
+      "bio": "Dermatóloga y divulgadora científica de cosmética, skincare, maquillaje editorial y rutinas limpias sin tóxicos.",
+      "city": "Madrid",
+      "name": "Lucía Fernández Ramos",
+      "tags": [
+        "Skincare",
+        "Belleza",
+        "Dermatología",
+        "Ciencia",
+        "Maquillaje"
+      ],
+      "email": "contacto@lucienbeauty.es",
+      "notes": "Exige revisión previa de fórmulas cosméticas antes de aceptar campañas. Máxima credibilidad del sector.",
+      "phone": "+34 93 211 4455",
+      "rates": {
+        "tiktokVideo": 4800,
+        "instagramReel": 4200,
+        "instagramStory": 1300,
+        "eventAttendance": 6500,
+        "youtubeDedicated": 8900,
+        "youtubeIntegration": 4900
+      },
+      "avatar": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?w=300&auto=format&fit=crop&q=80",
+      "status": "Activo",
+      "country": "España",
+      "agencyId": "ag-2",
+      "audience": {
+        "ageGroups": [
+          {
+            "range": "18-24",
+            "percentage": 30
+          },
+          {
+            "range": "25-34",
+            "percentage": 54
+          },
+          {
+            "range": "35+",
+            "percentage": 16
+          }
+        ],
+        "genderSplit": {
+          "male": 12,
+          "other": 2,
+          "female": 86
+        },
+        "topCountries": [
+          {
+            "country": "España",
+            "percentage": 48
+          },
+          {
+            "country": "México",
+            "percentage": 26
+          },
+          {
+            "country": "Colombia",
+            "percentage": 14
+          },
+          {
+            "country": "Chile",
+            "percentage": 8
+          }
+        ]
+      },
+      "avgReach": 890000,
+      "category": "Belleza & Cuidado Personal",
+      "createdAt": "2026-02-18T10:15:00Z",
+      "artisticName": "Lucien Beauty Lab",
+      "availability": "Disponible",
+      "socialProfiles": [
+        {
+          "url": "https://instagram.com",
+          "handle": "@lucienbeautylab",
+          "avgViews": 410000,
+          "platform": "instagram",
+          "followers": 920000,
+          "engagementRate": 8.4
+        },
+        {
+          "url": "https://tiktok.com",
+          "handle": "@lucienbeauty",
+          "avgViews": 690000,
+          "platform": "tiktok",
+          "followers": 1350000,
+          "engagementRate": 10.1
+        },
+        {
+          "url": "https://youtube.com",
+          "handle": "@LucienSkincareLab",
+          "avgViews": 280000,
+          "platform": "youtube",
+          "followers": 510000,
+          "engagementRate": 7.9
+        }
+      ],
+      "totalFollowers": 2780000,
+      "avgEngagementRate": 8.8
+    },
+    {
+      "id": "cr-6",
+      "bio": "Pareja viajera y documentalistas de experiencias exóticas, hoteles boutique, gastronomía de autor y turismo sostenible.",
+      "city": "Cancún",
+      "name": "Mateo & Sofía Wander",
+      "tags": [
+        "Viajes",
+        "Aventura",
+        "Hotelería",
+        "Gastronomía",
+        "Drones"
+      ],
+      "email": "contacto@dosenruta.travel",
+      "notes": "Cuentan con equipo de drones y cámaras RED. Entregan material en 4K HDR para derechos de uso publicitario.",
+      "phone": "+52 55 9988 7766",
+      "rates": {
+        "tiktokVideo": 3400,
+        "instagramReel": 3600,
+        "instagramStory": 1100,
+        "eventAttendance": 5000,
+        "youtubeDedicated": 7800,
+        "youtubeIntegration": 4200
+      },
+      "avatar": "https://images.unsplash.com/photo-1522075469751-3a6694fb2f61?w=300&auto=format&fit=crop&q=80",
+      "status": "Activo",
+      "country": "México",
+      "agencyId": "ag-1",
+      "audience": {
+        "ageGroups": [
+          {
+            "range": "18-24",
+            "percentage": 25
+          },
+          {
+            "range": "25-34",
+            "percentage": 55
+          },
+          {
+            "range": "35+",
+            "percentage": 20
+          }
+        ],
+        "genderSplit": {
+          "male": 42,
+          "other": 2,
+          "female": 56
+        },
+        "topCountries": [
+          {
+            "country": "México",
+            "percentage": 40
+          },
+          {
+            "country": "España",
+            "percentage": 22
+          },
+          {
+            "country": "Estados Unidos",
+            "percentage": 20
+          },
+          {
+            "country": "Argentina",
+            "percentage": 12
+          }
+        ]
+      },
+      "avgReach": 790000,
+      "category": "Viajes & Aventura",
+      "createdAt": "2026-03-02T13:40:00Z",
+      "artisticName": "DosEnRuta",
+      "availability": "Disponible",
+      "socialProfiles": [
+        {
+          "url": "https://instagram.com",
+          "handle": "@dosenruta",
+          "avgViews": 320000,
+          "platform": "instagram",
+          "followers": 780000,
+          "engagementRate": 7.2
+        },
+        {
+          "url": "https://youtube.com",
+          "handle": "@DosEnRutaExpediciones",
+          "avgViews": 540000,
+          "platform": "youtube",
+          "followers": 850000,
+          "engagementRate": 8.5
+        },
+        {
+          "url": "https://tiktok.com",
+          "handle": "@dosenruta_oficial",
+          "avgViews": 290000,
+          "platform": "tiktok",
+          "followers": 690000,
+          "engagementRate": 6.9
+        }
+      ],
+      "totalFollowers": 2320000,
+      "avgEngagementRate": 7.5
+    }
+  ],
+  "brands": [
+    {
+      "id": "br-1",
+      "logo": "https://images.unsplash.com/photo-1546435770-a3e426bf472b?w=150&auto=format&fit=crop&q=80",
+      "name": "CyberPulse Audio & Wearables",
+      "email": "m.vance@cyberpulse.tech",
+      "notes": "Marca de auriculares inalámbricos con cancelación de ruido híbrida y DAC Hi-Res para creadores y streamers.",
+      "phone": "+1 415 555 0192",
+      "status": "Cliente activo",
+      "country": "Estados Unidos",
+      "website": "https://cyberpulse.tech",
+      "industry": "Tecnología y Audio",
+      "createdAt": "2026-01-12T09:00:00Z",
+      "contactName": "Marcus Vance",
+      "accountManager": "Alejandro Morales",
+      "campaignsCount": 4,
+      "estimatedBudget": 120000
+    },
+    {
+      "id": "br-2",
+      "logo": "https://images.unsplash.com/photo-1522335789203-aabd1fc54bc9?w=150&auto=format&fit=crop&q=80",
+      "name": "Luminary Skincare Lab",
+      "email": "chloe.dubois@luminaryskin.fr",
+      "notes": "Línea de sueros antiedad y cremas hidratantes con péptidos marinos sustentables. Campañas con foco en dermatólogas.",
+      "phone": "+33 1 42 68 55 00",
+      "status": "Cliente activo",
+      "country": "Francia",
+      "website": "https://luminaryskin.fr",
+      "industry": "Cosmética y Cuidado Personal",
+      "createdAt": "2026-01-25T11:20:00Z",
+      "contactName": "Chloé Dubois",
+      "accountManager": "Elena De La Torre",
+      "campaignsCount": 3,
+      "estimatedBudget": 85000
+    },
+    {
+      "id": "br-3",
+      "logo": "https://images.unsplash.com/photo-1622484216853-f77b73c4d7b2?w=150&auto=format&fit=crop&q=80",
+      "name": "NovaVolt Energy & Nutrition",
+      "email": "santiago@novavolt.mx",
+      "notes": "Bebidas isotónicas sin azúcar con electrolitos y nootrópicos naturales para concentración gamer y rendimiento fitness.",
+      "phone": "+52 55 8765 4321",
+      "status": "Cliente activo",
+      "country": "México",
+      "website": "https://novavoltenergy.com",
+      "industry": "Bebidas y Nutrición Deportiva",
+      "createdAt": "2026-02-05T14:00:00Z",
+      "contactName": "Santiago Herrero",
+      "accountManager": "Mateo Roldán",
+      "campaignsCount": 5,
+      "estimatedBudget": 95000
+    },
+    {
+      "id": "br-4",
+      "logo": "https://images.unsplash.com/photo-1509631179647-0177331693ae?w=150&auto=format&fit=crop&q=80",
+      "name": "Aetheria Streetwear Syndicate",
+      "email": "marta@aetheriabrand.com",
+      "notes": "Prendas sostenibles de corte oversized inspiradas en arquitectura brutalista y futurismo.",
+      "phone": "+34 91 320 8910",
+      "status": "Negociación",
+      "country": "España",
+      "website": "https://aetheriabrand.com",
+      "industry": "Moda y Lifestyle",
+      "createdAt": "2026-02-14T16:45:00Z",
+      "contactName": "Marta Solano",
+      "accountManager": "Elena De La Torre",
+      "campaignsCount": 2,
+      "estimatedBudget": 60000
+    },
+    {
+      "id": "br-5",
+      "logo": "https://images.unsplash.com/photo-1469854523086-cc02fe5d8800?w=150&auto=format&fit=crop&q=80",
+      "name": "Skyward Expeditions & Resorts",
+      "email": "dalvarado@skywardresorts.com",
+      "notes": "Cadena de eco-lodges de lujo en Costa Rica, Colombia y México orientada a nómadas digitales y lunas de miel.",
+      "phone": "+506 2200 4500",
+      "status": "Prospecto",
+      "country": "Costa Rica",
+      "website": "https://skywardresorts.com",
+      "industry": "Turismo y Hospitalidad",
+      "createdAt": "2026-03-05T09:30:00Z",
+      "contactName": "Daniel Alvarado",
+      "accountManager": "Alejandro Morales",
+      "campaignsCount": 1,
+      "estimatedBudget": 110000
+    }
+  ],
+  "campaigns": [
+    {
+      "id": "cp-1",
+      "name": "CyberPulse Titan Wireless — Global Launch",
+      "budget": 45000,
+      "status": "En ejecución",
+      "brandId": "br-1",
+      "endDate": "2026-04-15",
+      "metrics": {
+        "roi": 3.8,
+        "reach": 5200000,
+        "clicks": 34100,
+        "conversions": 2480,
+        "engagements": 742000,
+        "impressions": 8940000
+      },
+      "agencyId": "ag-1",
+      "brandName": "CyberPulse Audio & Wearables",
+      "createdAt": "2026-02-15T10:00:00Z",
+      "platforms": [
+        "YouTube",
+        "Instagram",
+        "TikTok",
+        "Twitch"
+      ],
+      "startDate": "2026-03-01",
+      "agencyName": "Vyral Next Media Group",
+      "creatorIds": [
+        "cr-1",
+        "cr-4"
+      ],
+      "objectives": "Generar 15M de impresiones, posicionar el producto como el estándar gamer/tech en Latam y España, y lograr 40K clics a la preventa.",
+      "description": "Lanzamiento masivo de los auriculares estrella CyberPulse Titan con audio espacial, latencia ultra-baja y cancelación inteligente.",
+      "managerName": "Alejandro Morales",
+      "spentBudget": 32500,
+      "deliverables": [
+        {
+          "id": "del-101",
+          "type": "YouTube Video Dedicado 4K",
+          "status": "Publicado",
+          "dueDate": "2026-03-12",
+          "quantity": 1,
+          "creatorId": "cr-1",
+          "publishUrl": "https://youtube.com/watch?v=demo-cyberpulse",
+          "creatorName": "Valeria CyberGlow"
+        },
+        {
+          "id": "del-102",
+          "type": "Instagram Reels & Stories",
+          "status": "Publicado",
+          "dueDate": "2026-03-18",
+          "quantity": 2,
+          "creatorId": "cr-1",
+          "publishUrl": "https://instagram.com/reel/demo-glow",
+          "creatorName": "Valeria CyberGlow"
+        },
+        {
+          "id": "del-103",
+          "type": "Twitch Stream Sponsor & TikTok Clíp",
+          "status": "En producción",
+          "dueDate": "2026-03-25",
+          "quantity": 3,
+          "creatorId": "cr-4",
+          "creatorName": "KronoPixel"
+        }
+      ]
+    },
+    {
+      "id": "cp-2",
+      "name": "Luminary Oceanic Radiance Serum — Spring Campaign",
+      "budget": 35000,
+      "status": "En ejecución",
+      "brandId": "br-2",
+      "endDate": "2026-04-20",
+      "metrics": {
+        "roi": 4.1,
+        "reach": 3100000,
+        "clicks": 19800,
+        "conversions": 1840,
+        "engagements": 430000,
+        "impressions": 4850000
+      },
+      "agencyId": "ag-2",
+      "brandName": "Luminary Skincare Lab",
+      "createdAt": "2026-02-28T14:00:00Z",
+      "platforms": [
+        "Instagram",
+        "TikTok",
+        "YouTube"
+      ],
+      "startDate": "2026-03-10",
+      "agencyName": "HyperNova Talent Agency",
+      "creatorIds": [
+        "cr-5"
+      ],
+      "objectives": "Fomentar confianza clínica en la formulación marina, conseguir 8M de reproducciones en TikTok e Instagram Reels.",
+      "description": "Campaña científica de educación dermocosmética sobre barrera cutánea con dermatólogas e influencers de skincare certificado.",
+      "managerName": "Elena De La Torre",
+      "spentBudget": 28000,
+      "deliverables": [
+        {
+          "id": "del-201",
+          "type": "TikTok Demostración con microscopio de piel",
+          "status": "Publicado",
+          "dueDate": "2026-03-15",
+          "quantity": 2,
+          "creatorId": "cr-5",
+          "publishUrl": "https://tiktok.com/@demo-luminary",
+          "creatorName": "Lucien Beauty Lab"
+        },
+        {
+          "id": "del-202",
+          "type": "YouTube Deep Dive Rutina Skincare",
+          "status": "En revisión",
+          "dueDate": "2026-03-28",
+          "quantity": 1,
+          "creatorId": "cr-5",
+          "creatorName": "Lucien Beauty Lab"
+        }
+      ]
+    },
+    {
+      "id": "cp-3",
+      "name": "NovaVolt Focus Rush — Gamer & CrossFit Activation",
+      "budget": 42000,
+      "status": "Planificación",
+      "brandId": "br-3",
+      "endDate": "2026-05-10",
+      "metrics": {
+        "roi": 2.9,
+        "reach": 890000,
+        "clicks": 5400,
+        "conversions": 320,
+        "engagements": 98000,
+        "impressions": 1200000
+      },
+      "agencyId": "ag-3",
+      "brandName": "NovaVolt Energy & Nutrition",
+      "createdAt": "2026-03-08T11:30:00Z",
+      "platforms": [
+        "TikTok",
+        "Instagram",
+        "Twitch"
+      ],
+      "startDate": "2026-03-20",
+      "agencyName": "Apex Influence Latam",
+      "creatorIds": [
+        "cr-3",
+        "cr-4"
+      ],
+      "objectives": "Crecimiento de share of voice en TikTok en jóvenes 18-30 años y generación de contenido generado por usuarios con hashtag challenge.",
+      "description": "Posicionamiento de la bebida energética sin azúcar para maratones de entrenamiento físico y sesiones intensas de stream.",
+      "managerName": "Mateo Roldán",
+      "spentBudget": 15000,
+      "deliverables": [
+        {
+          "id": "del-301",
+          "type": "Instagram Reels Rutina HIIT + Bebida",
+          "status": "Aprobado",
+          "dueDate": "2026-03-29",
+          "quantity": 3,
+          "creatorId": "cr-3",
+          "creatorName": "CamiFit Iron"
+        },
+        {
+          "id": "del-302",
+          "type": "Twitch Overlay & Desafío en vivo",
+          "status": "En producción",
+          "dueDate": "2026-04-05",
+          "quantity": 2,
+          "creatorId": "cr-4",
+          "creatorName": "KronoPixel"
+        }
+      ]
+    },
+    {
+      "id": "cp-4",
+      "name": "Aetheria Brutalist Capsule — Autumn Showcase",
+      "budget": 28000,
+      "status": "Finalizada",
+      "brandId": "br-4",
+      "endDate": "2026-02-28",
+      "metrics": {
+        "roi": 4.8,
+        "reach": 3900000,
+        "clicks": 28500,
+        "conversions": 3100,
+        "engagements": 480000,
+        "impressions": 5600000
+      },
+      "agencyId": "ag-1",
+      "brandName": "Aetheria Streetwear Syndicate",
+      "createdAt": "2026-01-05T09:00:00Z",
+      "platforms": [
+        "Instagram",
+        "TikTok"
+      ],
+      "startDate": "2026-01-10",
+      "agencyName": "Vyral Next Media Group",
+      "creatorIds": [
+        "cr-2"
+      ],
+      "objectives": "Consolidar la marca en comunidades de moda alternativa y elevar el ticket promedio mediante códigos promocionales exclusivos.",
+      "description": "Exposición fotográfica y reels cinematográficos presentando la nueva colección de sudaderas y pantalones técnicos.",
+      "managerName": "Alejandro Morales",
+      "spentBudget": 28000,
+      "deliverables": [
+        {
+          "id": "del-401",
+          "type": "Lookbook Editorial Video 4K & 4 Fotos",
+          "status": "Publicado",
+          "dueDate": "2026-01-28",
+          "quantity": 1,
+          "creatorId": "cr-2",
+          "publishUrl": "https://instagram.com/reel/demo-aetheria",
+          "creatorName": "SebaVibes"
+        }
+      ]
+    }
+  ],
+  "collaborations": [
+    {
+      "id": "col-1",
+      "notes": "Resultados superaron el KPI inicial por un 140% en reproducciones y retención.",
+      "status": "Publicada",
+      "brandId": "br-1",
+      "agreedFee": 12500,
+      "brandName": "CyberPulse Audio & Wearables",
+      "createdAt": "2026-02-20T11:00:00Z",
+      "creatorId": "cr-1",
+      "campaignId": "cp-1",
+      "linkReview": "https://youtube.com/watch?v=valeria-titan-review",
+      "creatorName": "Valeria Castro Ruiz",
+      "campaignName": "CyberPulse Titan Wireless — Global Launch",
+      "creatorAvatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=300&auto=format&fit=crop&q=80",
+      "proposalDetails": "Review a fondo del producto en YouTube con prueba de audio binaural y un Reel dinámico mostrando el setup.",
+      "publicationDate": "2026-03-15",
+      "deliverablesText": "1x YouTube Integración 90s + 2x Instagram Reels + 3x Stories con swipe-up",
+      "creatorArtisticName": "Valeria CyberGlow"
+    },
+    {
+      "id": "col-2",
+      "notes": "Producto ya entregado en domicilio en Buenos Aires. Esperando guion final.",
+      "status": "En producción",
+      "brandId": "br-1",
+      "agreedFee": 7800,
+      "brandName": "CyberPulse Audio & Wearables",
+      "createdAt": "2026-02-22T15:30:00Z",
+      "creatorId": "cr-4",
+      "campaignId": "cp-1",
+      "creatorName": "Diego Arismendi",
+      "campaignName": "CyberPulse Titan Wireless — Global Launch",
+      "creatorAvatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=300&auto=format&fit=crop&q=80",
+      "proposalDetails": "Uso en directo de los auriculares durante el torneo de Valorant en Twitch y clip resumen en TikTok con humor.",
+      "publicationDate": "2026-03-25",
+      "deliverablesText": "2x Menciones patrocinadas en Twitch de 4 horas + 1x TikTok Clíp cómico",
+      "creatorArtisticName": "KronoPixel"
+    },
+    {
+      "id": "col-3",
+      "notes": "La creadora solicitó ajustes en los reclamos cosméticos para cumplir normativa sanitaria europea.",
+      "status": "En negociación",
+      "brandId": "br-2",
+      "agreedFee": 11000,
+      "brandName": "Luminary Skincare Lab",
+      "createdAt": "2026-03-01T10:00:00Z",
+      "creatorId": "cr-5",
+      "campaignId": "cp-2",
+      "creatorName": "Lucía Fernández Ramos",
+      "campaignName": "Luminary Oceanic Radiance Serum — Spring Campaign",
+      "creatorAvatar": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?w=300&auto=format&fit=crop&q=80",
+      "proposalDetails": "Desglose clínico de los ingredientes marinos y prueba del sérum ante luz polarizada para demostrar hidratación.",
+      "publicationDate": "2026-03-28",
+      "deliverablesText": "1x YouTube Análisis dermatológico + 2x TikToks de rutina diaria",
+      "creatorArtisticName": "Lucien Beauty Lab"
+    },
+    {
+      "id": "col-4",
+      "notes": "Contrato firmado por ambas partes el 10 de marzo.",
+      "status": "Aprobada",
+      "brandId": "br-3",
+      "agreedFee": 6500,
+      "brandName": "NovaVolt Energy & Nutrition",
+      "createdAt": "2026-03-05T12:00:00Z",
+      "creatorId": "cr-3",
+      "campaignId": "cp-3",
+      "creatorName": "Camila Montoya",
+      "campaignName": "NovaVolt Focus Rush — Gamer & CrossFit Activation",
+      "creatorAvatar": "https://images.unsplash.com/photo-1517841905240-472988babdf9?w=300&auto=format&fit=crop&q=80",
+      "proposalDetails": "Entrenamiento de fuerza en vivo en Instagram con botellero térmico de NovaVolt y sorteo de 3 packs anuales.",
+      "publicationDate": "2026-04-02",
+      "deliverablesText": "2x Reels HIIT + 1x Carrusel explicativo de ingredientes y cafeína natural",
+      "creatorArtisticName": "CamiFit Iron"
+    },
+    {
+      "id": "col-5",
+      "notes": "Campaña cerrada con felicitaciones del cliente por el impacto estético.",
+      "status": "Completada",
+      "brandId": "br-4",
+      "agreedFee": 14000,
+      "brandName": "Aetheria Streetwear Syndicate",
+      "createdAt": "2026-01-10T14:00:00Z",
+      "creatorId": "cr-2",
+      "campaignId": "cp-4",
+      "linkReview": "https://instagram.com/reel/demo-seba-aetheria",
+      "creatorName": "Sebastián Morales",
+      "campaignName": "Aetheria Brutalist Capsule — Autumn Showcase",
+      "creatorAvatar": "https://images.unsplash.com/photo-1539571696357-5a69c17a67c6?w=300&auto=format&fit=crop&q=80",
+      "proposalDetails": "Sesión cinematográfica urbana en Tokyo y CDMX mostrando la versatilidad climática de las prendas.",
+      "publicationDate": "2026-02-14",
+      "deliverablesText": "1x Video Cine 4K Reels + 5x Fotos alta resolución para catálogo",
+      "creatorArtisticName": "SebaVibes"
+    }
+  ],
+  "calendarEvents": [
+    {
+      "id": "ev-1",
+      "color": "#22D3EE",
+      "title": "Publicación: YouTube Review CyberPulse Titan",
+      "allDay": false,
+      "endDate": "2026-03-24T19:00:00Z",
+      "createdAt": "2026-03-01T08:00:00Z",
+      "eventType": "entrega_contenido",
+      "relatedId": "cp-1",
+      "startDate": "2026-03-24T18:00:00Z",
+      "description": "Valeria CyberGlow publica el video oficial con enlaces trackeados de afiliados.",
+      "relatedType": "Campaign"
+    },
+    {
+      "id": "ev-2",
+      "color": "#8B5CF6",
+      "title": "Reunión de alineación: Luminary Skincare Q2",
+      "allDay": false,
+      "endDate": "2026-03-26T16:30:00Z",
+      "createdAt": "2026-03-02T10:00:00Z",
+      "eventType": "reunión",
+      "relatedId": "br-2",
+      "startDate": "2026-03-26T15:30:00Z",
+      "description": "Revisión de guiones de Lucrecia y aprobación de mockups de envases.",
+      "relatedType": "Brand"
+    },
+    {
+      "id": "ev-3",
+      "color": "#10B981",
+      "title": "Vencimiento Pago: CyberPulse Primera Cuota",
+      "allDay": true,
+      "endDate": "2026-03-30T10:00:00Z",
+      "createdAt": "2026-03-05T11:00:00Z",
+      "eventType": "fecha_pago",
+      "relatedId": "pay-1",
+      "startDate": "2026-03-30T09:00:00Z",
+      "description": "Transferencia programada de la marca CyberPulse por $22,500 USD.",
+      "relatedType": "Payment"
+    },
+    {
+      "id": "ev-4",
+      "color": "#F59E0B",
+      "title": "Twitch Sponsor Stream: KronoPixel x NovaVolt",
+      "allDay": false,
+      "endDate": "2026-04-06T00:00:00Z",
+      "createdAt": "2026-03-10T14:00:00Z",
+      "eventType": "campaña",
+      "relatedId": "cp-3",
+      "startDate": "2026-04-05T20:00:00Z",
+      "description": "Torneo de 4 horas con overlay patrocinado e interactivo de la bebida energizante.",
+      "relatedType": "Campaign"
+    },
+    {
+      "id": "ev-5",
+      "color": "#EF4444",
+      "title": "Vencimiento Contrato: Exclusividad SebaVibes",
+      "allDay": true,
+      "endDate": "2026-04-18T11:00:00Z",
+      "createdAt": "2026-03-12T09:00:00Z",
+      "eventType": "vencimiento_contrato",
+      "relatedId": "ct-2",
+      "startDate": "2026-04-18T10:00:00Z",
+      "description": "Renovación o cese del acuerdo de representación de Sebastián Morales.",
+      "relatedType": "Contract"
+    }
+  ],
+  "pipelineDeals": [
+    {
+      "id": "dl-1",
+      "notes": "Buscan 6 creadores de viajes y fotografía para tours en resorts de Costa Rica y Tulum.",
+      "owner": "Alejandro Morales",
+      "stage": "primer_contacto",
+      "title": "Campaña Global Verano 2026 — Skyward Resorts",
+      "source": "Referido comercial",
+      "brandId": "br-5",
+      "brandName": "Skyward Expeditions & Resorts",
+      "createdAt": "2026-03-01T10:00:00Z",
+      "dealValue": 75000,
+      "contactName": "Daniel Alvarado",
+      "probability": 40,
+      "contactEmail": "dalvarado@skywardresorts.com",
+      "expectedCloseDate": "2026-04-10"
+    },
+    {
+      "id": "dl-2",
+      "notes": "Propuesta enviada por $45K. Solicitan incluir 2 influencers adicionales de TikTok España.",
+      "owner": "Elena De La Torre",
+      "stage": "negociacion",
+      "title": "Lanzamiento Colección Streetwear Fall/Winter",
+      "source": "Cliente recurrente",
+      "brandId": "br-4",
+      "brandName": "Aetheria Streetwear Syndicate",
+      "createdAt": "2026-02-25T14:30:00Z",
+      "dealValue": 45000,
+      "contactName": "Marta Solano",
+      "probability": 70,
+      "contactEmail": "marta@aetheriabrand.com",
+      "expectedCloseDate": "2026-04-02"
+    },
+    {
+      "id": "dl-3",
+      "notes": "Contrato marco para patrocinios mensuales durante todo el año 2026.",
+      "owner": "Alejandro Morales",
+      "stage": "propuesta_enviada",
+      "title": "Sponsorship Anual Esports Series — CyberPulse",
+      "source": "Inbound comercial",
+      "brandId": "br-1",
+      "brandName": "CyberPulse Audio & Wearables",
+      "createdAt": "2026-02-18T16:00:00Z",
+      "dealValue": 180000,
+      "contactName": "Marcus Vance",
+      "probability": 90,
+      "contactEmail": "m.vance@cyberpulse.tech",
+      "expectedCloseDate": "2026-03-28"
+    },
+    {
+      "id": "dl-4",
+      "notes": "Ganado. Contrato firmado y anticipo del 50% depositado.",
+      "owner": "Mateo Roldán",
+      "stage": "ganado",
+      "title": "Activación Fitness & Suplementos — ProAthletics Labs",
+      "source": "Networking evento",
+      "brandId": "br-3",
+      "brandName": "NovaVolt Energy & Nutrition",
+      "createdAt": "2026-02-10T12:00:00Z",
+      "dealValue": 52000,
+      "contactName": "Santiago Herrero",
+      "probability": 100,
+      "contactEmail": "santiago@novavolt.mx",
+      "expectedCloseDate": "2026-03-15"
+    },
+    {
+      "id": "dl-5",
+      "notes": "Interés inicial tras webinar de ROI de influencer marketing.",
+      "owner": "Mateo Roldán",
+      "stage": "nuevo_prospecto",
+      "title": "Expansión Mercado Mexicano — Nordic Clean Drink",
+      "source": "Campaña LinkedIn",
+      "brandId": "br-3",
+      "brandName": "Nordic Organic Beverages",
+      "createdAt": "2026-03-08T09:00:00Z",
+      "dealValue": 30000,
+      "contactName": "Freja Lindqvist",
+      "probability": 25,
+      "contactEmail": "freja@nordicclean.se",
+      "expectedCloseDate": "2026-04-30"
+    }
+  ],
+  "contracts": [
+    {
+      "id": "ct-1",
+      "notes": "Cláusula de exclusividad en categoría audio durante el periodo activo.",
+      "title": "Acuerdo de Patrocinio CyberPulse Titan Launch",
+      "value": 45000,
+      "status": "Firmado",
+      "endDate": "2026-04-30",
+      "partyId": "br-1",
+      "fileName": "Contrato_CyberPulse_Titan_2026.pdf",
+      "fileSize": "2.4 MB",
+      "createdAt": "2026-02-28T11:00:00Z",
+      "partyName": "CyberPulse Audio & Wearables",
+      "partyType": "Marca",
+      "startDate": "2026-03-01",
+      "contractType": "Patrocinio de marca"
+    },
+    {
+      "id": "ct-2",
+      "notes": "Comisión de agencia estipulada al 20% sobre facturación bruta de marcas.",
+      "title": "Contrato de Representación Exclusiva — SebaVibes",
+      "value": 120000,
+      "status": "Firmado",
+      "endDate": "2026-04-18",
+      "partyId": "cr-2",
+      "fileName": "Representacion_SebaVibes_2025_2026.pdf",
+      "fileSize": "1.8 MB",
+      "createdAt": "2025-04-15T09:00:00Z",
+      "partyName": "Sebastián Morales (SebaVibes)",
+      "partyType": "Creador",
+      "startDate": "2025-04-18",
+      "contractType": "Representación de creador"
+    },
+    {
+      "id": "ct-3",
+      "notes": "Revisión por departamento legal previa al envío de cotizaciones detalladas.",
+      "title": "Acuerdo Marco Confidencialidad (NDA) — Skyward Resorts",
+      "value": 0,
+      "status": "En revisión",
+      "endDate": "2027-03-10",
+      "partyId": "br-5",
+      "fileName": "NDA_Skyward_Resorts_VYRALEXX.pdf",
+      "fileSize": "850 KB",
+      "createdAt": "2026-03-09T15:00:00Z",
+      "partyName": "Skyward Expeditions & Resorts",
+      "partyType": "Marca",
+      "startDate": "2026-03-10",
+      "contractType": "Acuerdo de confidencialidad (NDA)"
+    },
+    {
+      "id": "ct-4",
+      "notes": "Incluye derechos de pauta digital paga (whitelisting) por 90 días.",
+      "title": "Acuerdo de Servicios de Contenido — Luminary Skincare",
+      "value": 35000,
+      "status": "Firmado",
+      "endDate": "2026-05-01",
+      "partyId": "br-2",
+      "fileName": "Contrato_Luminary_Oceanic_2026.pdf",
+      "fileSize": "3.1 MB",
+      "createdAt": "2026-02-26T14:00:00Z",
+      "partyName": "Luminary Skincare Lab",
+      "partyType": "Marca",
+      "startDate": "2026-03-01",
+      "contractType": "Servicios de agencia"
+    }
+  ],
+  "payments": [
+    {
+      "id": "pay-1",
+      "type": "Cobro",
+      "notes": "Comprobante de banco recibido y verificado.",
+      "amount": 22500,
+      "status": "Pagado",
+      "concept": "Anticipo 50% Campaña CyberPulse Titan Launch",
+      "dueDate": "2026-03-15",
+      "entityId": "br-1",
+      "paidDate": "2026-03-12",
+      "createdAt": "2026-03-01T10:00:00Z",
+      "issueDate": "2026-03-01",
+      "campaignId": "cp-1",
+      "entityName": "CyberPulse Audio & Wearables",
+      "entityType": "Marca",
+      "campaignName": "CyberPulse Titan Wireless — Global Launch",
+      "invoiceNumber": "INV-2026-0042",
+      "paymentMethod": "Transferencia SWIFT / Wire"
+    },
+    {
+      "id": "pay-2",
+      "type": "Pago",
+      "notes": "Pago condicionado a la entrega del informe de métricas de las primeras 72 horas.",
+      "amount": 12500,
+      "status": "Pendiente",
+      "concept": "Honorarios YouTube Video Review — Valeria CyberGlow",
+      "dueDate": "2026-03-30",
+      "entityId": "cr-1",
+      "createdAt": "2026-03-16T11:00:00Z",
+      "issueDate": "2026-03-16",
+      "campaignId": "cp-1",
+      "entityName": "Valeria Castro Ruiz",
+      "entityType": "Creador",
+      "campaignName": "CyberPulse Titan Wireless — Global Launch",
+      "invoiceNumber": "INV-2026-0043",
+      "paymentMethod": "Transferencia Bancaria SEPA"
+    },
+    {
+      "id": "pay-3",
+      "type": "Cobro",
+      "notes": "Liquidado en su totalidad con bonus por conversión adicional.",
+      "amount": 28000,
+      "status": "Pagado",
+      "concept": "Liquidación Total Campaña Aetheria Streetwear",
+      "dueDate": "2026-02-15",
+      "entityId": "br-4",
+      "paidDate": "2026-02-10",
+      "createdAt": "2026-01-15T09:00:00Z",
+      "issueDate": "2026-01-15",
+      "campaignId": "cp-4",
+      "entityName": "Aetheria Streetwear Syndicate",
+      "entityType": "Marca",
+      "campaignName": "Aetheria Brutalist Capsule — Autumn Showcase",
+      "invoiceNumber": "INV-2026-0038",
+      "paymentMethod": "Transferencia SEPA"
+    },
+    {
+      "id": "pay-4",
+      "type": "Cobro",
+      "notes": "Recordatorio enviado al departamento contable el 20 de marzo.",
+      "amount": 21000,
+      "status": "Pendiente",
+      "concept": "Primer Pago Campaña NovaVolt Energy Activation",
+      "dueDate": "2026-03-28",
+      "entityId": "br-3",
+      "createdAt": "2026-03-10T15:00:00Z",
+      "issueDate": "2026-03-10",
+      "campaignId": "cp-3",
+      "entityName": "NovaVolt Energy & Nutrition",
+      "entityType": "Marca",
+      "campaignName": "NovaVolt Focus Rush — Gamer & CrossFit Activation",
+      "invoiceNumber": "INV-2026-0045",
+      "paymentMethod": "SPEI México"
+    },
+    {
+      "id": "pay-5",
+      "type": "Pago",
+      "notes": "50% de anticipo entregado.",
+      "amount": 3250,
+      "status": "Pagado",
+      "concept": "Pago Creadora CamiFit Iron — Anticipo Campaña",
+      "dueDate": "2026-03-20",
+      "entityId": "cr-3",
+      "paidDate": "2026-03-18",
+      "createdAt": "2026-03-11T16:00:00Z",
+      "issueDate": "2026-03-11",
+      "campaignId": "cp-3",
+      "entityName": "Camila Montoya",
+      "entityType": "Creador",
+      "campaignName": "NovaVolt Focus Rush — Gamer & CrossFit Activation",
+      "invoiceNumber": "INV-2026-0046",
+      "paymentMethod": "PayPal / Wise"
+    }
+  ],
+  "tasks": [
+    {
+      "id": "tsk-1",
+      "title": "Revisión final de guion y planos para YouTube CyberPulse",
+      "status": "completada",
+      "dueDate": "2026-03-11",
+      "assignee": "Alejandro Morales",
+      "priority": "Alta",
+      "createdAt": "2026-03-08T10:00:00Z",
+      "campaignId": "cp-1",
+      "completedAt": "2026-03-11T18:00:00Z",
+      "description": "Comprobar que Valeria menciona el código VYRAL15 y muestra la app complementaria.",
+      "campaignName": "CyberPulse Titan Wireless — Global Launch"
+    },
+    {
+      "id": "tsk-2",
+      "title": "Enviar muestras de producto NovaVolt a domicilio de KronoPixel",
+      "status": "en_progreso",
+      "dueDate": "2026-03-25",
+      "assignee": "Mateo Roldán",
+      "priority": "Media",
+      "createdAt": "2026-03-12T11:00:00Z",
+      "campaignId": "cp-3",
+      "description": "Coordinar envío exprés a Buenos Aires con 12 latas de Focus Rush sabor Arándano Eléctrico.",
+      "campaignName": "NovaVolt Focus Rush — Gamer & CrossFit Activation"
+    },
+    {
+      "id": "tsk-3",
+      "title": "Preparar reporte quincenal en PDF para directorio de Luminary",
+      "status": "por_hacer",
+      "dueDate": "2026-03-27",
+      "assignee": "Elena De La Torre",
+      "priority": "Alta",
+      "createdAt": "2026-03-14T14:00:00Z",
+      "campaignId": "cp-2",
+      "description": "Consolidar impresiones de TikTok, CTR de enlaces y engagement rate de los videos de Lucrecia.",
+      "campaignName": "Luminary Oceanic Radiance Serum — Spring Campaign"
+    },
+    {
+      "id": "tsk-4",
+      "title": "Actualizar tarifas de creadores en base a métricas de febrero",
+      "status": "por_hacer",
+      "dueDate": "2026-04-01",
+      "assignee": "Alejandro Morales",
+      "priority": "Baja",
+      "createdAt": "2026-03-15T09:00:00Z",
+      "description": "Revisar CPMs de Valeria y CamiFit tras el incremento del 15% en followers."
+    },
+    {
+      "id": "tsk-5",
+      "title": "Redactar borrador de adenda para exclusividad con SebaVibes",
+      "status": "en_revision",
+      "dueDate": "2026-03-29",
+      "assignee": "Elena De La Torre",
+      "priority": "Alta",
+      "createdAt": "2026-03-16T12:00:00Z",
+      "description": "Ampliar el acuerdo de representación por 12 meses con bono por desempeño."
+    }
+  ],
+  "messages": [
+    {
+      "id": "msg-1",
+      "message": "¡Equipo! El video review de Valeria para CyberPulse superó las 350K vistas en las primeras 24 horas. El cliente está encantado.",
+      "channelId": "general",
+      "timestamp": "2026-03-22T10:15:00Z",
+      "isInternal": true,
+      "senderName": "Alejandro Morales",
+      "senderRole": "Superadministrador",
+      "senderAvatar": "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?w=150&auto=format&fit=crop&q=80"
+    },
+    {
+      "id": "msg-2",
+      "message": "Excelente noticia. Además, los reportes de Luminary ya están en un 80% listos para la exportación ejecutiva.",
+      "channelId": "general",
+      "timestamp": "2026-03-22T10:20:00Z",
+      "isInternal": true,
+      "senderName": "Elena De La Torre",
+      "senderRole": "Directora de Cuentas",
+      "senderAvatar": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=150&auto=format&fit=crop&q=80"
+    },
+    {
+      "id": "msg-3",
+      "message": "Ya despachamos el stock promocional para KronoPixel en Argentina. Debería llegar el miércoles a tiempo para el stream.",
+      "channelId": "general",
+      "timestamp": "2026-03-22T11:05:00Z",
+      "isInternal": true,
+      "senderName": "Mateo Roldán",
+      "senderRole": "Líder Latam",
+      "senderAvatar": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=150&auto=format&fit=crop&q=80"
+    }
+  ],
+  "files": [
+    {
+      "id": "fl-1",
+      "url": "#",
+      "name": "MediaKit_Oficial_ValeriaGlow_2026.pdf",
+      "size": "8.4 MB",
+      "category": "Media Kits",
+      "fileType": "PDF",
+      "createdAt": "2026-02-10T10:00:00Z",
+      "uploadedBy": "Valeria Castro",
+      "relatedCampaign": "CyberPulse Titan Wireless"
+    },
+    {
+      "id": "fl-2",
+      "url": "#",
+      "name": "CyberPulse_Titan_BrandBook_AssetPack.zip",
+      "size": "142 MB",
+      "category": "Creativos",
+      "fileType": "ZIP",
+      "createdAt": "2026-02-15T12:00:00Z",
+      "uploadedBy": "Marcus Vance",
+      "relatedCampaign": "CyberPulse Titan Wireless"
+    },
+    {
+      "id": "fl-3",
+      "url": "#",
+      "name": "Reporte_Q1_Resultados_Campanas_VYRALEXX.pdf",
+      "size": "4.2 MB",
+      "category": "Reportes",
+      "fileType": "PDF",
+      "createdAt": "2026-03-15T16:00:00Z",
+      "uploadedBy": "Elena De La Torre"
+    },
+    {
+      "id": "fl-4",
+      "url": "#",
+      "name": "Factura_INV_2026_0042_CyberPulse.pdf",
+      "size": "340 KB",
+      "category": "Facturas",
+      "fileType": "PDF",
+      "createdAt": "2026-03-01T10:30:00Z",
+      "uploadedBy": "Alejandro Morales"
+    }
+  ],
+  "notifications": [
+    {
+      "id": "notif-1",
+      "link": "/campaigns",
+      "read": false,
+      "type": "exito",
+      "title": "Nuevo entregable publicado",
+      "message": "Valeria CyberGlow publicó el Instagram Reel acordado para CyberPulse Titan.",
+      "createdAt": "2026-03-23T08:30:00Z"
+    },
+    {
+      "id": "notif-2",
+      "link": "/payments",
+      "read": false,
+      "type": "alerta",
+      "title": "Vencimiento de pago próximo",
+      "message": "La factura INV-2026-0045 de NovaVolt por $21,000 USD vence en 5 días.",
+      "createdAt": "2026-03-23T07:15:00Z"
+    },
+    {
+      "id": "notif-3",
+      "link": "/pipeline",
+      "read": true,
+      "type": "info",
+      "title": "Nueva propuesta en CRM",
+      "message": "Skyward Resorts avanzó a etapa de primer contacto por un valor de $75,000 USD.",
+      "createdAt": "2026-03-22T14:00:00Z"
+    },
+    {
+      "id": "notif-4",
+      "link": "/contracts",
+      "read": true,
+      "type": "exito",
+      "title": "Contrato firmado digitalmente",
+      "message": "Luminary Skincare Lab ha firmado el acuerdo de servicios de contenido.",
+      "createdAt": "2026-03-21T18:20:00Z"
+    }
+  ],
+  "settings": {
+    "currency": "USD ($)",
+    "language": "Español (ES)",
+    "timezone": "America/Mexico_City (GMT-6)",
+    "companyName": "VYRALEXX Global Network Inc.",
+    "apiIntegrations": {
+      "tiktok": true,
+      "metaAds": false,
+      "youtube": true,
+      "instagram": true
+    },
+    "notificationsEnabled": true
+  }
+}
